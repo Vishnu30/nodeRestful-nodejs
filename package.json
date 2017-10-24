@@ -1,0 +1,18 @@
+{
+  "name": "restful-in-nodeJS",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "method-override": "^2.3.10",
+    "mongoose": "latest",
+    "node-restful": "^0.2.6"
+  },
+  "author": "vishnu bajpai",
+  "license": "ISC"
+}
